@@ -31,16 +31,16 @@ const imageAltText = "desktop ";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "YouTube Transcript Summarizer",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "In this project, you will be a creating a Chrome Extension which will make a request to backend REST API where it will perform NLP and respond with a summarized version of a YouTube transcript.",
+    url: "https://github.com/sidshehria/Youtube-Transcript-Summarizer",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Security-Manager",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A Python based Program designed for Windows systems and focuses on implementing various security-related actions using administrative privileges.",
+    url: "https://github.com/sidshehria/Security-Manager",
   },
   {
     title: "My Resume Site",
@@ -49,10 +49,10 @@ const projectList = [
     url: "https://sidshehria.github.io/resume/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "My Design Portfolio",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Here you'll get to see some of my designs.",
+    url: "https://www.behance.net/siddharshehria",
   },
 ];
 
